@@ -1,2 +1,2 @@
-# medaipipe
-class
+# mediapipe
+opencv + mediapipe hand/pose
